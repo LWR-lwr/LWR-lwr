@@ -1,8 +1,8 @@
-<h1 align="center">Wenrui Luo · 罗文睿</h1>
+<h1 align="center">LWR-lwr</h1>
 
 <p align="center">
-  <em>Intelligence Science &amp; Technology · Guangzhou College of Commerce · 2023–2027</em><br>
-  Computer vision &amp; Chinese NLP — I care about models that actually get used.
+  <em>Computer vision &amp; Chinese NLP</em><br>
+  I care about models that actually get used.
 </p>
 
 ---
