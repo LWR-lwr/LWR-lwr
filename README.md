@@ -1,10 +1,5 @@
 <h1 align="center">LWR-lwr</h1>
 
-<p align="center">
-  <em>Computer vision &amp; Chinese NLP</em><br>
-  I care about models that actually get used.
-</p>
-
 ---
 
 ## 🔬 Selected Work
